@@ -11,7 +11,7 @@ I am a Senior DevOps Engineer with over 5 years of experience across multiple co
 ## Skills
 - **Cloud Platforms**: AWS, Azure
 - **Containerization**: Docker, Kubernetes (AKS, EKS)
-- **CI/CD Tools**: GitLab CI, Jenkins, Terraform, Helm
+- **CI/CD Tools**: GitLab CI, Github Actions, Jenkins, Terraform, Helm
 - **Monitoring**: Prometheus, Grafana, VictoriaMetrics, ELK Stack
 - **Languages**: Python, Bash, PowerShell
 
