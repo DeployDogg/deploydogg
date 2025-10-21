@@ -17,7 +17,7 @@ I am a Senior DevOps Engineer with over 5 years of experience across multiple co
 
 ## Contact
 - Email: [andrew@anashkin1.ru](mailto:andrew@anashkin1.ru)
-- GitHub: [github.com/aay98](https://github.com/aay98)
+- GitHub: [github.com/DeployDogg](https://github.com/deploydogg)
 - LinkedIn: [linkedin.com/in/andrew-anashkin](https://linkedin.com/in/andrew-anashkin)
-- Telegram: [t.me/odmim](https://t.me/odmim)
+- Telegram: [t.me/odmim](https://t.me/deploydogg)
 - WhatsApp: [Hi, we need devops in our company!](https://wa.me/+79264052551?text=Hi,%20we%20need%20devops%20in%20our%20company!)
